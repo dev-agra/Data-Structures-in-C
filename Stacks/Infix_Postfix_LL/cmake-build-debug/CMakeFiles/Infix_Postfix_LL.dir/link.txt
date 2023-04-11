@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Infix_Postfix_LL.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Infix_Postfix_LL.dir/objects.a @CMakeFiles\Infix_Postfix_LL.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Infix_Postfix_LL.dir/objects.a -Wl,--no-whole-archive -o Infix_Postfix_LL.exe -Wl,--out-implib,libInfix_Postfix_LL.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Infix_Postfix_LL.dir\linklibs.rsp

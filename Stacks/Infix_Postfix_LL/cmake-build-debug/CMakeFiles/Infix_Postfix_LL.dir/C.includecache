@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Programming/C Programming/DATA STRUCTURE/Stacks/Infix_Postfix_LL/main.c
+stdio.h
+-
+stdlib.h
+-
+strings.h
+-
+

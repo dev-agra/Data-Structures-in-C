@@ -1,0 +1,3 @@
+C:/Programming/C Programming/DATA STRUCTURE/Strings/cmake-build-debug/CMakeFiles/Strings.dir
+C:/Programming/C Programming/DATA STRUCTURE/Strings/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Programming/C Programming/DATA STRUCTURE/Strings/cmake-build-debug/CMakeFiles/rebuild_cache.dir

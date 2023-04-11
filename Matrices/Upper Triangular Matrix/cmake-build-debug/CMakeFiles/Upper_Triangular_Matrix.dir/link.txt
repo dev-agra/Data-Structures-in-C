@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Upper_Triangular_Matrix.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Upper_Triangular_Matrix.dir/objects.a @CMakeFiles\Upper_Triangular_Matrix.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Upper_Triangular_Matrix.dir/objects.a -Wl,--no-whole-archive -o Upper_Triangular_Matrix.exe -Wl,--out-implib,libUpper_Triangular_Matrix.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Upper_Triangular_Matrix.dir\linklibs.rsp

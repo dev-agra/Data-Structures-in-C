@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Doubly_LL.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Doubly_LL.dir/objects.a @CMakeFiles\Doubly_LL.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Doubly_LL.dir/objects.a -Wl,--no-whole-archive -o Doubly_LL.exe -Wl,--out-implib,libDoubly_LL.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Doubly_LL.dir\linklibs.rsp
